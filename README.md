@@ -9,12 +9,12 @@
 
 ### Stack
 
-- 의료 영상 Backprojection 프로그램(Matlab) <br/>
+- 의료 영상 Backprojection 프로그램 'Matlab' <br/>
 
    >> 내용: CT 영상 데이터를 Matlab에서 직접 backprojection 구현(내장 함수 제외)<br/>
    >> 링크: 
    
-- 라즈베리파이 기반 소형 OCT 시스템(C++/Linux)
+- 라즈베리파이 기반 소형 OCT 시스템 'C++'/'Linux'
 
    >> 내용: 라즈베리파이에서 MEMS Scanner를 사용한 OCT 시스템 구축<br/>
    >> 링크:
@@ -23,13 +23,6 @@
 
    >> java를 이용해서 만들어본 결과물<br/>
 
-- `nextjs`를 이용해서 서포터즈 활동한 회사의 웹사이트를 개발해봤습니다.
-
-- `python`를 tensorflow를 활용하기 위해 공부도 하였고 코딩테스트 및 프로그램 개발를 해봤습니다.
-
-   >> python 이용해서 공부했던 자료 <br/>
-
-- `spring-boot`를 사용해서 flutter를 이용한 앱의 서버를 개발해봤습니다.
 
 ## Awards
 - 

@@ -12,7 +12,7 @@
 - 의료 영상 Backprojection 프로그램 'Matlab' <br/>
 
    >> 내용: CT 영상 데이터를 Matlab에서 직접 backprojection 구현(내장 함수 제외)<br/>
-   >> 링크: 
+   >> 링크: https://github.com/jay7531/MatlabBackprojection
    
 - 라즈베리파이 기반 소형 OCT 시스템 'C++'/'Linux'
 
